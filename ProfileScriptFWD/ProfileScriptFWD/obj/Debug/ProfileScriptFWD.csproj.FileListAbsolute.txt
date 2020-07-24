@@ -1,0 +1,140 @@
+C:\Users\PhoenixWD\Documents\Visual Studio 2015\Projects\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Custom.InputAccel.UimScript.dll
+C:\Users\PhoenixWD\Documents\Visual Studio 2015\Projects\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Custom.InputAccel.UimScript.pdb
+C:\Users\PhoenixWD\Documents\Visual Studio 2015\Projects\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Emc.InputAccel.CaptureClient.dll
+C:\Users\PhoenixWD\Documents\Visual Studio 2015\Projects\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.dll
+C:\Users\PhoenixWD\Documents\Visual Studio 2015\Projects\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.pdb
+C:\Users\PhoenixWD\documents\visual studio 2015\Projects\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PhoenixWD\documents\visual studio 2015\Projects\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\System.Json.dll
+C:\Users\PhoenixWD\documents\visual studio 2015\Projects\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\ScriptDocumentProfile\Version Last [Round3] Lookuop 2.0.0.44 FRAMWORK 4.7.1\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Custom.InputAccel.UimScript.dll.config
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\ScriptDocumentProfile\Version Last [Round3] Lookuop 2.0.0.44 FRAMWORK 4.7.1\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Custom.InputAccel.UimScript.dll
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\ScriptDocumentProfile\Version Last [Round3] Lookuop 2.0.0.44 FRAMWORK 4.7.1\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Custom.InputAccel.UimScript.pdb
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\ScriptDocumentProfile\Version Last [Round3] Lookuop 2.0.0.44 FRAMWORK 4.7.1\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\ScriptDocumentProfile\Version Last [Round3] Lookuop 2.0.0.44 FRAMWORK 4.7.1\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\ScriptDocumentProfile\Version Last [Round3] Lookuop 2.0.0.44 FRAMWORK 4.7.1\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\ProfileScriptFWD.csprojAssemblyReference.cache
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\ScriptDocumentProfile\Version Last [Round3] Lookuop 2.0.0.44 FRAMWORK 4.7.1\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.FormLookUp.resources
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\ScriptDocumentProfile\Version Last [Round3] Lookuop 2.0.0.44 FRAMWORK 4.7.1\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\ProfileScriptFWD.csproj.GenerateResource.cache
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\ScriptDocumentProfile\Version Last [Round3] Lookuop 2.0.0.44 FRAMWORK 4.7.1\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\ProfileScriptFWD.csproj.CopyComplete
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\ScriptDocumentProfile\Version Last [Round3] Lookuop 2.0.0.44 FRAMWORK 4.7.1\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.dll
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\ScriptDocumentProfile\Version Last [Round3] Lookuop 2.0.0.44 FRAMWORK 4.7.1\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.pdb
+C:\VS\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Custom.InputAccel.UimScript.dll.config
+C:\VS\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Custom.InputAccel.UimScript.dll
+C:\VS\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Custom.InputAccel.UimScript.pdb
+C:\VS\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Newtonsoft.Json.dll
+C:\VS\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Newtonsoft.Json.xml
+C:\VS\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.FormLookUp.resources
+C:\VS\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\ProfileScriptFWD.csproj.GenerateResource.cache
+C:\VS\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\ProfileScriptFWD.csproj.CoreCompileInputs.cache
+C:\VS\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\ProfileScriptFWD.csproj.CopyComplete
+C:\VS\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.dll
+C:\VS\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.pdb
+C:\VS\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\ProfileScriptFWD.csprojResolveAssemblyReference.cache
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD-Documentum\Script FWD Document\Version Last [Round2] Table - Lookup\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Custom.InputAccel.UimScript.dll.config
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD-Documentum\Script FWD Document\Version Last [Round2] Table - Lookup\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Custom.InputAccel.UimScript.dll
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD-Documentum\Script FWD Document\Version Last [Round2] Table - Lookup\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Custom.InputAccel.UimScript.pdb
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD-Documentum\Script FWD Document\Version Last [Round2] Table - Lookup\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD-Documentum\Script FWD Document\Version Last [Round2] Table - Lookup\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD-Documentum\Script FWD Document\Version Last [Round2] Table - Lookup\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.FormLookUp.resources
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD-Documentum\Script FWD Document\Version Last [Round2] Table - Lookup\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\ProfileScriptFWD.csproj.GenerateResource.cache
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD-Documentum\Script FWD Document\Version Last [Round2] Table - Lookup\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\ProfileScriptFWD.csproj.CopyComplete
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD-Documentum\Script FWD Document\Version Last [Round2] Table - Lookup\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.dll
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD-Documentum\Script FWD Document\Version Last [Round2] Table - Lookup\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.pdb
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD-Documentum\Script FWD Document\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\ProfileScriptFWD.csprojAssemblyReference.cache
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD-Documentum\Script FWD Document\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\NamedQueryLookup\NamedQueryLookup.baml
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD-Documentum\Script FWD Document\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\NamedQueryLookup\NamedQueryLookup.g.cs
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD-Documentum\Script FWD Document\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript_MarkupCompile.cache
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD-Documentum\Script FWD Document\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.g.resources
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD-Documentum\Script FWD Document\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.FormLookUp.resources
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD-Documentum\Script FWD Document\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.Properties.Resources.resources
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD-Documentum\Script FWD Document\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\ProfileScriptFWD.csproj.GenerateResource.cache
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD-Documentum\Script FWD Document\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.dll
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD-Documentum\Script FWD Document\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.pdb
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD-Documentum\Script FWD Document\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Custom.InputAccel.UimScript.dll.config
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD-Documentum\Script FWD Document\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Custom.InputAccel.UimScript.dll
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD-Documentum\Script FWD Document\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Custom.InputAccel.UimScript.pdb
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD-Documentum\Script FWD Document\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD-Documentum\Script FWD Document\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD-Documentum\Script FWD Document\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\ProfileScriptFWD.csproj.CopyComplete
+C:\VS\Dev_Lookup\DevNewTable\FWD-Documentum\Script FWD Document\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Custom.InputAccel.UimScript.dll.config
+C:\VS\Dev_Lookup\DevNewTable\FWD-Documentum\Script FWD Document\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Custom.InputAccel.UimScript.dll
+C:\VS\Dev_Lookup\DevNewTable\FWD-Documentum\Script FWD Document\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Custom.InputAccel.UimScript.pdb
+C:\VS\Dev_Lookup\DevNewTable\FWD-Documentum\Script FWD Document\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Newtonsoft.Json.dll
+C:\VS\Dev_Lookup\DevNewTable\FWD-Documentum\Script FWD Document\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Newtonsoft.Json.xml
+C:\VS\Dev_Lookup\DevNewTable\FWD-Documentum\Script FWD Document\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\NamedQueryLookup\NamedQueryLookup.baml
+C:\VS\Dev_Lookup\DevNewTable\FWD-Documentum\Script FWD Document\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\NamedQueryLookup\NamedQueryLookup.g.cs
+C:\VS\Dev_Lookup\DevNewTable\FWD-Documentum\Script FWD Document\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript_MarkupCompile.cache
+C:\VS\Dev_Lookup\DevNewTable\FWD-Documentum\Script FWD Document\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.g.resources
+C:\VS\Dev_Lookup\DevNewTable\FWD-Documentum\Script FWD Document\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.FormLookUp.resources
+C:\VS\Dev_Lookup\DevNewTable\FWD-Documentum\Script FWD Document\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.Properties.Resources.resources
+C:\VS\Dev_Lookup\DevNewTable\FWD-Documentum\Script FWD Document\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\ProfileScriptFWD.csproj.GenerateResource.cache
+C:\VS\Dev_Lookup\DevNewTable\FWD-Documentum\Script FWD Document\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\ProfileScriptFWD.csproj.CoreCompileInputs.cache
+C:\VS\Dev_Lookup\DevNewTable\FWD-Documentum\Script FWD Document\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\ProfileScriptFWD.csproj.CopyComplete
+C:\VS\Dev_Lookup\DevNewTable\FWD-Documentum\Script FWD Document\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.dll
+C:\VS\Dev_Lookup\DevNewTable\FWD-Documentum\Script FWD Document\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.pdb
+C:\VS\Dev_Lookup\DevNewTable\FWD-Documentum\Script FWD Document\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\ProfileScriptFWD.csprojResolveAssemblyReference.cache
+C:\VS\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Custom.InputAccel.UimScript.dll.config
+C:\VS\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Custom.InputAccel.UimScript.dll
+C:\VS\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Custom.InputAccel.UimScript.pdb
+C:\VS\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Newtonsoft.Json.dll
+C:\VS\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Newtonsoft.Json.xml
+C:\VS\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\NamedQueryLookup\NamedQueryLookup.baml
+C:\VS\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\NamedQueryLookup\NamedQueryLookup.g.cs
+C:\VS\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript_MarkupCompile.cache
+C:\VS\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.g.resources
+C:\VS\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.FormLookUp.resources
+C:\VS\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.Properties.Resources.resources
+C:\VS\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\ProfileScriptFWD.csproj.GenerateResource.cache
+C:\VS\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\ProfileScriptFWD.csproj.CoreCompileInputs.cache
+C:\VS\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\ProfileScriptFWD.csproj.CopyComplete
+C:\VS\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.dll
+C:\VS\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.pdb
+C:\VS\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\ProfileScriptFWD.csprojResolveAssemblyReference.cache
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Custom.InputAccel.UimScript.dll.config
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Custom.InputAccel.UimScript.dll
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Custom.InputAccel.UimScript.pdb
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\ProfileScriptFWD.csprojAssemblyReference.cache
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\NamedQueryLookup\NamedQueryLookup.baml
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\NamedQueryLookup\NamedQueryLookup.g.cs
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript_MarkupCompile.cache
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.g.resources
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.FormLookUp.resources
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.Properties.Resources.resources
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\ProfileScriptFWD.csproj.GenerateResource.cache
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\ProfileScriptFWD.csproj.CopyComplete
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.dll
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.pdb
+D:\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Custom.InputAccel.UimScript.dll.config
+D:\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Custom.InputAccel.UimScript.dll
+D:\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Custom.InputAccel.UimScript.pdb
+D:\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Newtonsoft.Json.dll
+D:\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Newtonsoft.Json.xml
+D:\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\ProfileScriptFWD.csprojResolveAssemblyReference.cache
+D:\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\NamedQueryLookup\NamedQueryLookup.baml
+D:\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\NamedQueryLookup\NamedQueryLookup.g.cs
+D:\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript_MarkupCompile.cache
+D:\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.g.resources
+D:\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.FormLookUp.resources
+D:\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.Properties.Resources.resources
+D:\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\ProfileScriptFWD.csproj.GenerateResource.cache
+D:\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\ProfileScriptFWD.csproj.CoreCompileInputs.cache
+D:\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\ProfileScriptFWD.csproj.CopyComplete
+D:\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.dll
+D:\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.pdb
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Custom.InputAccel.UimScript.dll.config
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Custom.InputAccel.UimScript.dll
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Custom.InputAccel.UimScript.pdb
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\ProfileScriptFWD\ProfileScriptFWD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\ProfileScriptFWD.csprojAssemblyReference.cache
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\NamedQueryLookup\NamedQueryLookup.baml
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\NamedQueryLookup\NamedQueryLookup.g.cs
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript_MarkupCompile.cache
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.g.resources
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.FormLookUp.resources
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.Properties.Resources.resources
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\ProfileScriptFWD.csproj.GenerateResource.cache
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\ProfileScriptFWD.csproj.CopyComplete
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.dll
+C:\Users\Net Ratchanon\Desktop\.Net Dll Library\FWD\ProfileScriptFWD\ProfileScriptFWD\obj\Debug\Custom.InputAccel.UimScript.pdb

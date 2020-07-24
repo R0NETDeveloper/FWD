@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:sch="http://document.fwd.co.th/captiva" xmlns:tns="http://document.fwd.co.th/captiva" targetNamespace="http://document.fwd.co.th/captiva" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xs:schema elementFormDefault="qualified" targetNamespace="http://document.fwd.co.th/captiva" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <xs:element name="uploadDocumentRequest">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="document" type="tns:document" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="uploadDocumentResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="nodeId" type="xs:string" />
+            <xs:element name="documentId" type="xs:string" />
+            <xs:element name="category" type="xs:string" />
+            <xs:element name="formName" type="xs:string" />
+            <xs:element name="status" type="xs:string" />
+            <xs:element name="message" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="generateSubmissionNumberRequest">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="requestId" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="generateSubmissionNumberResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="submissionNumber" type="xs:string" />
+            <xs:element name="status" type="xs:string" />
+            <xs:element name="message" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="completedExtractedDataRequest">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="submissionNumber" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="completedExtractedDataResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="status" type="xs:string" />
+            <xs:element name="message" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:complexType name="document">
+        <xs:sequence>
+          <xs:element name="policyNumber" type="xs:string" />
+          <xs:element name="documentId" type="xs:string" />
+          <xs:element name="idCardNumber" type="xs:string" />
+          <xs:element name="firstName" type="xs:string" />
+          <xs:element name="lastName" type="xs:string" />
+          <xs:element name="referenceNumber" type="xs:string" />
+          <xs:element name="processType" type="xs:string" />
+          <xs:element name="submissionNumber" type="xs:string" />
+          <xs:element name="scanBatchNumber" type="xs:string" />
+          <xs:element name="source" type="xs:string" />
+          <xs:element name="boxNumber" type="xs:string" />
+          <xs:element name="fileContent" type="xs:base64Binary" />
+          <xs:element name="fileExtension" type="xs:string" />
+          <xs:element name="nodeId" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:element name="poppulateDataRequest">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="identittyNo" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="poppulateDataResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="identittyNo" type="xs:string" />
+            <xs:element name="firstName" type="xs:string" />
+            <xs:element name="lastName" type="xs:string" />
+            <xs:element name="status" type="xs:string" />
+            <xs:element name="message" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+  </wsdl:types>
+  <wsdl:message name="uploadDocumentRequest">
+    <wsdl:part name="uploadDocumentRequest" element="tns:uploadDocumentRequest" />
+  </wsdl:message>
+  <wsdl:message name="completedExtractedDataResponse">
+    <wsdl:part name="completedExtractedDataResponse" element="tns:completedExtractedDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="poppulateDataRequest">
+    <wsdl:part name="poppulateDataRequest" element="tns:poppulateDataRequest" />
+  </wsdl:message>
+  <wsdl:message name="generateSubmissionNumberRequest">
+    <wsdl:part name="generateSubmissionNumberRequest" element="tns:generateSubmissionNumberRequest" />
+  </wsdl:message>
+  <wsdl:message name="generateSubmissionNumberResponse">
+    <wsdl:part name="generateSubmissionNumberResponse" element="tns:generateSubmissionNumberResponse" />
+  </wsdl:message>
+  <wsdl:message name="uploadDocumentResponse">
+    <wsdl:part name="uploadDocumentResponse" element="tns:uploadDocumentResponse" />
+  </wsdl:message>
+  <wsdl:message name="poppulateDataResponse">
+    <wsdl:part name="poppulateDataResponse" element="tns:poppulateDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="completedExtractedDataRequest">
+    <wsdl:part name="completedExtractedDataRequest" element="tns:completedExtractedDataRequest" />
+  </wsdl:message>
+  <wsdl:portType name="captivaPort">
+    <wsdl:operation name="uploadDocument">
+      <wsdl:input name="uploadDocumentRequest" message="tns:uploadDocumentRequest" />
+      <wsdl:output name="uploadDocumentResponse" message="tns:uploadDocumentResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="completedExtractedData">
+      <wsdl:input name="completedExtractedDataRequest" message="tns:completedExtractedDataRequest" />
+      <wsdl:output name="completedExtractedDataResponse" message="tns:completedExtractedDataResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="poppulateData">
+      <wsdl:input name="poppulateDataRequest" message="tns:poppulateDataRequest" />
+      <wsdl:output name="poppulateDataResponse" message="tns:poppulateDataResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="generateSubmissionNumber">
+      <wsdl:input name="generateSubmissionNumberRequest" message="tns:generateSubmissionNumberRequest" />
+      <wsdl:output name="generateSubmissionNumberResponse" message="tns:generateSubmissionNumberResponse" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="captivaPortSoap11" type="tns:captivaPort">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="uploadDocument">
+      <soap:operation soapAction="" />
+      <wsdl:input name="uploadDocumentRequest">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="uploadDocumentResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="completedExtractedData">
+      <soap:operation soapAction="" />
+      <wsdl:input name="completedExtractedDataRequest">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="completedExtractedDataResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="poppulateData">
+      <soap:operation soapAction="" />
+      <wsdl:input name="poppulateDataRequest">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="poppulateDataResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="generateSubmissionNumber">
+      <soap:operation soapAction="" />
+      <wsdl:input name="generateSubmissionNumberRequest">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="generateSubmissionNumberResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="captivaPortService">
+    <wsdl:port name="captivaPortSoap11" binding="tns:captivaPortSoap11">
+      <soap:address location="http://sathcen00001:9025/documentService/soap/captiva" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
